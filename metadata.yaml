@@ -1,0 +1,30 @@
+_repo: Why-Not-A-Book-for-Every-Woman_65701
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Storer, Horatio Robinson
+    aliases:
+    - Storer, H. R. (Horatio Robinson)
+    - Storer, Horatio R. (Horatio Robinson)
+    birthdate: 1830
+    deathdate: 1922
+    gutenberg_agent_id: '53248'
+    url: http://www.gutenberg.org/2009/agents/53248
+    wikipedia: https://en.wikipedia.org/wiki/Horatio_Storer
+description: ''
+gutenberg_issued: '2021-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65701'
+  lccn: 09005780
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Abortion'
+- !lcsh 'Sexual ethics'
+- GITenberg
+title: Why Not? A Book for Every Woman
+url: http://www.gutenberg.org/ebooks/65701
