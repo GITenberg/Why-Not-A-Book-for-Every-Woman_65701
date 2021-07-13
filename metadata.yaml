@@ -1,5 +1,8 @@
 _repo: Why-Not-A-Book-for-Every-Woman_65701
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65701-h/images/front_cover.jpg
 creator:
   author:
     agent_name: Storer, Horatio Robinson
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53248
     wikipedia: https://en.wikipedia.org/wiki/Horatio_Storer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65701#Why-Not-A-Book-for-Every-Woman
 gutenberg_issued: '2021-06-26'
 gutenberg_type: Text
 identifiers:
